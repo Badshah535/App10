@@ -12,9 +12,9 @@
       {
          "app_id":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
          "banner_id":"304034597848725_304034831182035",
-         "interstitial_id":"1304034597848725_305202767731908",
-          "interstitial_id1":"2304034597848725_305202454398606",
-          "interstitial_id2":"3304034597848725_305202594398592",
+         "interstitial_id":"304034597848725_305202767731908",
+          "interstitial_id1":"304034597848725_305202454398606",
+          "interstitial_id2":"304034597848725_305202594398592",
          "native_id":"304034597848725_305202524398599",
          "native_banner_id":"304034597848725_305202701065248",
          "rectangle_banner_id":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
